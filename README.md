@@ -1,7 +1,6 @@
 
 ![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)
-[![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange]]
-([https://www.mathworks.com/matlabcentral/fileexchange/182221-intro_filesharing](https://www.mathworks.com/matlabcentral/fileexchange/182221-intro_filesharing))
+![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange]([https://www.mathworks.com/matlabcentral/fileexchange/182221-intro_filesharing](https://www.mathworks.com/matlabcentral/fileexchange/182221-intro_filesharing))
 
 # Template for file sharing
 
