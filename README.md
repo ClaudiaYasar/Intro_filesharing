@@ -13,7 +13,7 @@ This teaching package introduces the ...
 
 # Examples 
 
-<img src="fig1.jpg" width="900">
+<img src="Fig1.jpg" width="900">
 
 # Instructions
 The teaching materials can be approached by following each of the required subjects one by one and studying the presented Material.
