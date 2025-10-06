@@ -2,7 +2,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]
 (https://matlab.mathworks.com/open/fileexchange/v1?id=168166)
 [![Intro_filesharing Asst. Prof. Dr Claudia F. Yaşar on File Exchange]
-(https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168166-intelligent-control-systems-course-curriculum)
+([https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168166-intelligent-control-systems-course-curriculum](https://www.mathworks.com/contribute/submissions/797e6df0-e45f-4c54-869f-f6cdb4250244/edit)
 
 # Template for file sharing
 
