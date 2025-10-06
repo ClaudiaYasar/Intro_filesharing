@@ -42,6 +42,6 @@ This course does not assume any prior knowledge of ... However, it is designed f
 Use block diagrams to represent real-world systems and simulate components and algorithms.
 
 # Acknowledgements
-I would like to express my gratitude to the students of the Intelligent Control Systems course of the YTÜ Control and Automation Engineering department, 
+I would like to express my gratitude to the students of the ...
 Class 2022 and 2023, whose dedication and hard work made this project possible. 
-I am also deeply thankful to our Control Tech LAB team, Doctors Marco Rossi, and Melda Ulusoy for their invaluable contributions.
+I am also deeply thankful to our ..., and ... for their invaluable contributions.
