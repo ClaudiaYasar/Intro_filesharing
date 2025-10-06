@@ -1,7 +1,7 @@
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)]
+![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)
 (https://matlab.mathworks.com/open/fileexchange/v1?id=168166)
-[![Intro_filesharing Asst. Prof. Dr Claudia F. Yaşar on File Exchange]
+![Intro_filesharing Asst. Prof. Dr Claudia F. Yaşar on File Exchange]
 (https://www.mathworks.com/matlabcentral/fileexchange/182221-intro_filesharing)
 
 # Template for file sharing
